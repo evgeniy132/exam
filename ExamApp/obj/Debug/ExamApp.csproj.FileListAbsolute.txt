@@ -1,0 +1,7 @@
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+C:\Users\Eugene\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
